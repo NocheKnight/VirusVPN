@@ -9,8 +9,8 @@
 ![Polosa](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
 #### Вступай в наш телеграмм канал!
-#### Ссылка - https://teleg.run/V1rusCode
-#### Ник - @V1rusCode
+#### Ссылка - https://teleg.run/V1rusCode, https://teleg.run/codesafety
+#### Ник - @V1rusCode, @codesafety
 
 ![Polosa](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
