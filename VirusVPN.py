@@ -136,7 +136,7 @@ print(Fore.BLUE+f"║ {Style.RESET_ALL}Если вы хотите сообщит
 print(Fore.BLUE+f"╚══════════════════════════════════════════════╝")
 
 # Конфиг файл OpenVPN
-ui2 = input("Создать файл конфигурации OpenVPN? (y/N): ")
+ui2 = str(input("Создать файл конфигурации OpenVPN? (y/N): "))
 
 if ui2 == "y" or "Y" or "Д" or "д":
 # Тестовая фича
