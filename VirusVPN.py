@@ -157,6 +157,9 @@ if ui2 == "y" or ui2 == "Y" or ui2 == "Д" or ui2 == "д":
     # f.write('\nscript-security 2\nup /etc/openvpn/update-resolv-conf\ndown /etc/openvpn/update-resolv-conf')
     f.close()
     print(Fore.GREEN + f"Создан файл: " + path + Style.RESET_ALL)
+    
+else:
+    print(Fore.YELLOW + f"Конфиг файл не был создан" + Style.RESET_ALL)
 
 #
 
