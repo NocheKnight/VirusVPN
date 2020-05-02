@@ -17,7 +17,7 @@
 ![Polosa](https://user-images.githubusercontent.com/61265099/78818286-19743180-79dd-11ea-84c5-f629f891dd4b.png)
 
 ### Демонстрация
-![Demo](https://imgur.com/a/EnS2FUn.png)
+![Demo](https://user-images.githubusercontent.com/62395719/80859264-7506a780-8c89-11ea-9568-6709f739ab15.jpg)
 
 ## Доска почёта
 Отдельную благодарность выражаю ***x11repo***
