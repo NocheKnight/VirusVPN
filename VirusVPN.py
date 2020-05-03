@@ -46,7 +46,7 @@ while True:
     print(Fore.BLUE+f"╔══════════════════════════════════════════════╗")
     print(Fore.BLUE+f"║{Style.RESET_ALL} Created By V1rusTeam a.k.a Koder             {Fore.BLUE}║"+Style.RESET_ALL)
     print(Fore.BLUE+f"║{Style.RESET_ALL} Telegram: https://teleg.run/V1rusCode        {Fore.BLUE}║"+Style.RESET_ALL)
-    print(Fore.BLUE+f"║{Style.RESET_ALL} Ver: 0.1 alpha                               {Fore.BLUE}║"+Style.RESET_ALL)
+    print(Fore.BLUE+f"║{Style.RESET_ALL} Ver: 0.2 alpha                               {Fore.BLUE}║"+Style.RESET_ALL)
     print(Fore.BLUE+f"{Fore.BLUE}╠══════════════════════════════════════════════╣")
     print(Fore.BLUE+f"║ {Style.RESET_ALL}    " + str(len(supported)) + ' of these servers support OpenVPN' + f"{Fore.BLUE}      ║")
 
@@ -111,7 +111,7 @@ while True:
     print(Fore.BLUE+f"╔══════════════════════════════════════════════╗")
     print(Fore.BLUE+f"║{Style.RESET_ALL} Created By V1rusTeam a.k.a Koder             {Fore.BLUE}║"+Style.RESET_ALL)
     print(Fore.BLUE+f"║{Style.RESET_ALL} Telegram: https://teleg.run/V1rusCode        {Fore.BLUE}║"+Style.RESET_ALL)
-    print(Fore.BLUE+f"║{Style.RESET_ALL} Ver: 0.1 alpha                               {Fore.BLUE}║"+Style.RESET_ALL)
+    print(Fore.BLUE+f"║{Style.RESET_ALL} Ver: 0.2 alpha                               {Fore.BLUE}║"+Style.RESET_ALL)
     print(Fore.BLUE+f"{Fore.BLUE}╠══════════════════════════════════════════════╣")
     print(Fore.BLUE+f"║{Style.RESET_ALL}{Fore.GREEN}              == Best server ==               {Style.RESET_ALL}{Fore.BLUE}║"+Style.RESET_ALL)
     time.sleep(0.2)
